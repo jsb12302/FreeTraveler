@@ -28,6 +28,27 @@ Docker-Compose를 이용하여 MariaDB 개발 환경을 구축하였다.
 
 ---
 
-### 서비스 시연영상  
-#### Gogo플랫폼 시연영상(Youtube 링크 연결)  
+##설계
+
+###ERD
+![ERD](https://user-images.githubusercontent.com/73890228/173500321-4b88b4d1-6471-4fa5-a468-90ab095701fb.png)
+
+###Sequence Diagram
+####게시물 작성
+![sequence](https://user-images.githubusercontent.com/73890228/173500479-2d04eebb-d181-49d9-9e61-0c6ebadf9f7b.png)
+
+##실행화면
+###메인 화면
+![메인](https://user-images.githubusercontent.com/73890228/173500736-ac937632-72e3-4bbc-9497-0636de9e3c55.png)
+
+###게시물 작성
+![게시물 작성](https://user-images.githubusercontent.com/73890228/173500814-d5c06a89-c1bb-4b80-9b65-c6b7f27a980c.png)
+
+
+###게시물 조회
+![게시물 조회](https://user-images.githubusercontent.com/73890228/173500819-0f8b19e6-ca32-4e71-87e5-60085ae2d3ff.png)
+
+
+## 서비스 시연영상  
+### Gogo플랫폼 시연영상(Youtube 링크 연결)  
 [![GOGO 플랫폼 시연 영상](https://user-images.githubusercontent.com/56144682/173310448-a9b1d347-c3ec-426a-a6f0-dcb4b6212494.png)](https://youtu.be/Pyjd2qTV-BY)
