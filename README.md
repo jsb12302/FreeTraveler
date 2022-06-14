@@ -37,7 +37,7 @@ Docker-Compose를 이용하여 MariaDB 개발 환경을 구축하였다.
 #### 게시물 작성
 ![sequence](https://user-images.githubusercontent.com/73890228/173500479-2d04eebb-d181-49d9-9e61-0c6ebadf9f7b.png)
 
-## 실행화면
+## 실행화
 ### 메인 화면
 ![메인](https://user-images.githubusercontent.com/73890228/173500736-ac937632-72e3-4bbc-9497-0636de9e3c55.png)
 
